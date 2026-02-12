@@ -1,4 +1,4 @@
-# Technical Test Coralis - Login, Register & Reset Password
+# Technical Test Backend - Login, Register & Reset Password
 
 Proyek ini adalah aplikasi mobile berbasis Flutter yang terintegrasi dengan REST API menggunakan CodeIgniter 4.
 
